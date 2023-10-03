@@ -28,5 +28,6 @@
     
     <p><a href="index.jsp">Add Another Task</a></p>
     <p><a href="deleteTask.jsp">Delete Task</a></p>
+    <p><a href="editTask.jsp">Edit Tasks</a>
 </body>
 </html>
